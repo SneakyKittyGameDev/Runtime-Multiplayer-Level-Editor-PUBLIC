@@ -1,6 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Level Editor Plugin
+Plugins/
+Content/zTesting/
+.idea/
+
 # Compiled Object files
 *.slo
 *.lo
