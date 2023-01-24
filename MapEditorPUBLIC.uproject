@@ -5,11 +5,9 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
+			"Name": "MultiplayerLevelEditor",
 			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
+			"MarketplaceURL": "com.TEMPLINK.com"
 		}
 	]
 }
